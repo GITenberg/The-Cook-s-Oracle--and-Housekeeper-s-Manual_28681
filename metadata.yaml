@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '33482'
     url: http://www.gutenberg.org/2009/agents/33482
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28681#The-Cook-s-Oracle--and-Housekeeper-s-Manual
 gutenberg_bookshelf: Cookery
 gutenberg_issued: '2009-05-04'
 gutenberg_type: Text
