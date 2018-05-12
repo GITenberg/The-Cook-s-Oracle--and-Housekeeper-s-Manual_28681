@@ -1,0 +1,27 @@
+_repo: The-Cook-s-Oracle--and-Housekeeper-s-Manual_28681
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kitchiner, William
+    alias: Kitchiner, W. (William)
+    deathdate: 1827
+    gutenberg_agent_id: '33482'
+    url: http://www.gutenberg.org/2009/agents/33482
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2009-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28681'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cooking, English'
+- !lcc 'TX'
+title: The Cook's Oracle; and Housekeeper's Manual
+url: http://www.gutenberg.org/ebooks/28681
